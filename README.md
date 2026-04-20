@@ -18,6 +18,11 @@
 
 ---
 
+## 🎬 Demo
+
+![ASL Sign2Language Demo](./demo/demo.gif)
+
+---
 ## 🚀 Quick Start
 
 ### Prerequisites
