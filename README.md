@@ -154,8 +154,8 @@ Training data sourced from:
 
 | Metric | Value |
 |--------|-------|
-| **Validation Accuracy** | ~92% |
-| **Model Size** | ~32.5 MB |
+| **Validation Accuracy** | ~97% |
+| **Model Size** | ~70 MB |
 | **Inference Time** | ~50-100ms |
 | **FPS** | 20-30 |
 
@@ -169,7 +169,7 @@ Training data sourced from:
 - Verify `best_asl_eff.h5` is in the root directory
 
 ### **Low detection accuracy**
-- Ensure proper lighting
+- Ensure proper lighting and white background
 - Keep hand in frame and centered
 - Hold gesture steady for required frames
 - Adjust `STABLE_THRESHOLD` or `MIN_CONFIDENCE`
